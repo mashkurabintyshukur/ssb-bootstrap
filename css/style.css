@@ -1,0 +1,47 @@
+*{
+    margin:0;
+}
+
+
+
+.mango{
+   background-color: rgb(41, 148, 59);
+   height: 150px;
+   text-align: center;
+   font-style: italic;
+}
+.Apple{
+   background-color: rgb(123, 106, 146);
+   height: 300px;
+   text-align: center;
+   font-style: italic;
+}
+.wrapper{
+    overflow: hidden;
+}
+.left{
+   width:50%;
+   background-color: rgb(32, 181, 192);
+   height:250px;
+   text-align: center;
+   float:left;
+}
+.right{
+    width:50%;
+    background-color: rgb(163, 122, 149);
+    height:250px;
+    text-align: center;
+    float:right;
+}
+
+.footer{
+   background-color: rgb(116, 182, 29);
+   height:100px
+   text-align: center;
+}
+
+
+
+
+
+
